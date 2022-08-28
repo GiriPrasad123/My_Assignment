@@ -1,0 +1,124 @@
+{ 
+  "user":[
+    {
+      "id": 1001,
+      "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.g9JQBsgn1JtJ4WirA1--IQHaHa&pid=Api&P=0",
+      "firstName": "Ernestine",
+      "lastName": "Turcotte",
+      "email": "Ernestine.Turcotte@dummyapis.com",
+      "contactNumber": "4023292739",
+      "age": 43,
+      "dob": "08/11/1979",
+      "salary": 1.0,
+      "address": "Address1"
+    },
+    {
+      "id": 1002,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=GP&height=120&width=120",
+      "firstName": "Giovanni",
+      "lastName": "Pagac",
+      "email": "Giovanni.Pagac@dummyapis.com",
+      "contactNumber": "4592591722",
+      "age": 71,
+      "dob": "05/06/1951",
+      "salary": 2.0,
+      "address": "Address2"
+    },
+    {
+      "id": 1003,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=JR&height=120&width=120",
+      "firstName": "Jack",
+      "lastName": "Rolfson",
+      "email": "Jack.Rolfson@dummyapis.com",
+      "contactNumber": "4719597796",
+      "age": 44,
+      "dob": "23/07/1978",
+      "salary": 3.0,
+      "address": "Address3"
+    },
+    {
+      "id": 1004,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=DH&height=120&width=120",
+      "firstName": "Daija",
+      "lastName": "Howe",
+      "email": "Daija.Howe@dummyapis.com",
+      "contactNumber": "4007490912",
+      "age": 66,
+      "dob": "05/07/1956",
+      "salary": 4.0,
+      "address": "Address4"
+    },
+    {
+      "id": 1005,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=RH&height=120&width=120",
+      "firstName": "Ruthie",
+      "lastName": "Hoppe",
+      "email": "Ruthie.Hoppe@dummyapis.com",
+      "contactNumber": "4292493137",
+      "age": 34,
+      "dob": "19/04/1988",
+      "salary": 5.0,
+      "address": "Address5"
+    },
+    {
+      "id": 1006,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=EH&height=120&width=120",
+      "firstName": "Elouise",
+      "lastName": "Homenick",
+      "email": "Elouise.Homenick@dummyapis.com",
+      "contactNumber": "4575792358",
+      "age": 87,
+      "dob": "13/07/1935",
+      "salary": 6.0,
+      "address": "Address6"
+    },
+    {
+      "id": 1007,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=LV&height=120&width=120",
+      "firstName": "Lois",
+      "lastName": "Volkman",
+      "email": "Lois.Volkman@dummyapis.com",
+      "contactNumber": "4809997402",
+      "age": 57,
+      "dob": "04/02/1965",
+      "salary": 7.0,
+      "address": "Address7"
+    },
+    {
+      "id": 1008,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=MD&height=120&width=120",
+      "firstName": "Mikayla",
+      "lastName": "D'Amore",
+      "email": "Mikayla.D'Amore@dummyapis.com",
+      "contactNumber": "4111196439",
+      "age": 28,
+      "dob": "28/06/1994",
+      "salary": 8.0,
+      "address": "Address8"
+    },
+    {
+      "id": 1009,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=JO&height=120&width=120",
+      "firstName": "Jed",
+      "lastName": "Oberbrunner",
+      "email": "Jed.Oberbrunner@dummyapis.com",
+      "contactNumber": "4694292555",
+      "age": 46,
+      "dob": "08/08/1976",
+      "salary": 9.0,
+      "address": "Address9"
+    },
+    {
+      "id": 1010,
+      "imageUrl": "https://hub.dummyapis.com/Image?text=FS&height=120&width=120",
+      "firstName": "Florence",
+      "lastName": "Stamm",
+      "email": "Florence.Stamm@dummyapis.com",
+      "contactNumber": "4607190217",
+      "age": 56,
+      "dob": "05/02/1966",
+      "salary": 10.0,
+      "address": "Address10"
+    }
+  ]
+}

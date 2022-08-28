@@ -1,0 +1,17 @@
+.bgcolour {
+    background-color: coral;
+}
+.solid {
+    border-style: solid;
+  }
+
+.groove {
+  border-style: groove;
+}
+.bgcolour1 {
+    background-color: rgb(255, 226, 80);
+}
+.imagestyle{
+  height: 100%;
+  width: 100%;
+}
